@@ -1,0 +1,14 @@
+.navbar{
+    color:#fff;
+}
+.home{
+    padding-top:15%;
+    text-align:center;
+    color:#fff;
+    background:#fff url("image.jpeg") center center no-repeat;
+    background-size: cover;
+    height:91vh;
+}
+form{
+    padding-left:20%;
+}
